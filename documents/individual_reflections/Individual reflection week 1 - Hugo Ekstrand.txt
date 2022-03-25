@@ -1,0 +1,24 @@
+
+    * what do I want to learn or understand better?
+        I want to better understand the agile SCRUM process since I've yet to work with it in any significant way.
+        This will most likely happen via practice, and also some additional reading of the course material.
+        That is, I think much of the process will be clearer and easier once we've done a sprint or two.
+
+        Additionally, we've disscused which technologies to use in the project and it seems as though we may have to
+        use some which I have yet to work with, such as javascript and databases in WIX.
+        Because of this I need to get a better understanding of them so that I can contribute to the team effort. 
+        I will do this by reading a bit about the documentation of WIX and writing one or two basic programs
+        in javascript to get a grip of the syntax and structure.
+
+    * how can I help someone else, or the entire team, to learn something new?
+        The I students have said they lack experience in git.
+        Because we will use git extensively in the project we, the IT students, will 
+        try to help them understand git better by doing a demonstration or two.
+
+    * what is my contribution towards the team's use of Scrum?
+        I will try my best to use my past experiences from other courses in agile development.
+
+    * what is my contribution towards the team's deliveries?
+        This week I contributed in the making of the social contract.
+        The following week I will do the same; that is, be active in all of the things we turn in/deliver.
+
