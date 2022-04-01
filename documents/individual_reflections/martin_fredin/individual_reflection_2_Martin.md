@@ -9,8 +9,8 @@ I will propably also help a bit with the backend as well.
 
 
 ## What is my contribution towards the team’s use of Scrum?
-I have participated on all the meetings. During the meetings I have 
-been active and voiced my opinion when feelt strongly about something.
+I have participated in all the meetings. During the meetings I have 
+been active and voiced my opinion when I feelt strongly about something.
 
 ## What is my contribution towards the team’s deliveries?
 I participated in making the user stories and the project scope. 
