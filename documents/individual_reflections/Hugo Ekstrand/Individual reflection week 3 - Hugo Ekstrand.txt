@@ -1,0 +1,56 @@
+
+    * what do I want to learn or understand better?
+	
+	1.)	
+	This week I've learnt about the framework Spring and java tech to set up a server. 
+	
+	In the future I want to learn databases, and more specifically how I can integrate them
+	into our server. I Will do this by continuing with reading about the Spring framework, but also
+	some old course material others in the group, whom had classes in databases, have shared.
+
+	2.)
+	I also want to understand velocities, effort, and their relations better. Currently I find it a
+	bit unclear how one can measure progress in meaningful output to the project when
+	neither the groups velocity nor effort estimations are static from week to week.
+	
+	To learn this I will look through course material, lecture slides, and potentially, if needed, 
+	sites on the web. 
+
+	3.)
+	Lastly, I want to learn to better reflect on how much work I've put into a user story so that I can better
+	estimate how long one will take.
+	In the coming springs the group has also decided that we will most likely rate our completed user stories
+	by the actual effort, instead of just the effort we set on a user story in the spring planning. This will
+	hopefully help in becoming better at estimating effort of user stories.
+
+
+    * how can I help someone else, or the entire team, to learn something new?
+
+	I've helped group members run our server, so that we could check that it ran on everyone's machine.
+	In the future I assume I will have to help others with both understanding and using our server as
+	I'm the only one to have worked on it so far.
+
+	Similarly I think I can contribute knowledge about using our customers website's endpoints, for fetching
+	data. 
+
+	Lastly, it seems as though since not everyone in the group is familiar with git yet, I will have to
+	help those people with git. However, there seems to be more people than just me who are familiar with git
+	and could help too.
+
+    * what is my contribution towards the team's use of Scrum?
+
+	I contributed in planning of user stories' effort, via planning poker. 
+	Additionally, I have attempted to follow our trello workflow model as best as I can,
+	by, for instance, asking for code review instead of just merging and finishing a user story.
+
+
+    * what is my contribution towards the team's deliveries?
+
+	I contributed to the team reflection and changing the social
+	contract to better suit our group. 
+
+	I have also done user stories on setting up the project's server and
+	also endpoints to the external website we will be using. 
+	
+
+/Ekstr. 2022-04-08:16:48
