@@ -1,0 +1,42 @@
+
+    * what do I want to learn or understand better?
+
+	I feel as though I've started to get a firmer grip at how spring (our java server framework) works and how our frontend and backend
+	will communicate, such as how to make use of Spring-boots automatic JSON parser and parameter arguments in http rquests. 
+	But I will of course have to continue learning. I've done this by reading through
+	Spring-boot tutorials and some trial and error by testing different solutions to solve a user story. 
+
+	Currently I think my acceptance criterieas are too vague, which often leads to confusion in what needs
+	to be done. This of course not just an individual issue, since the whole group decides acceptance criterias 
+	together, but I still feel as though I can personally improve how precise I am. I will spend more time
+	in the next sprint thinking about what we want to achieve with a user story and make sure that there are
+	at least a few criterias.
+
+	Next week I will most likely have to learn how to communicate with our database. This week another 
+	team member had a user story a setting up a basic connection with the server, but next week we will
+	have to start the bigger process of populating the database and reading real data from it.
+	
+
+    * how can I help someone else, or the entire team, to learn something new?
+
+	I have continued helping the others in the team work with our server framework. 
+	I will most likely continue doing so in the coming week. 
+	
+
+    * what is my contribution towards the team's use of Scrum?
+
+	I've reviewed other team members code, which is a part of our DoD, and tried to make sure that all new code
+	on our master branch follows our DoD and satisfies the acceptance criterias we've set.
+
+	I've helped with spring planning by suggesting user stories and their acceptance criteras. 
+
+
+    * what is my contribution towards the team's deliveries?
+
+	I've worked on 2 user stories (#3.8 and #3.5).
+	#3.8 was for establishing a connection between our server and our client's website,
+	and #3.5 was for creating endpoints on our server which our webserver (frontend) can communicate with.
+	I also participated in the spring retrospective and review and wrote on the team reflection.
+	
+
+/Ekstr. 2022-04-22:16:00
