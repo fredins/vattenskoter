@@ -1,0 +1,59 @@
+
+    * what do I want to learn or understand better?
+
+	This week I learnt more about databases in our java server. I had to help completing one of our larger user stories
+	for connecting the database with the frontend. I learnt how to do more advance SQL queries and some of the oddities
+	with Spring-boot and postgressql, such as how to interpret some of the weird, but common, errors and exceptions we've had when
+	running the server/database.
+
+	Next week I will most likely not have to learn much more about databases and queries since we've completed most
+	of what needs to be done. I will however have to work a bit more on the POST side of java server endpoints. I.E.
+	I will have to work with java Spring's JSON to object automatic conversion which I've found to be a bit tricky 
+	to get right. 
+	I do, however, not think it will be much of a hinder, since java Spring has very good documentation.
+
+	Regarding user stories, I still feel that it is often hard to nail down good an concrete acceptance criteria when
+	specifying a user story. This has become a bit easier as I've become more familiar with how our system/application
+	works and what specific modules need to do, but it is still difficult. This week's sprint planning went a bit
+	fast since some people had to leave early, and thus we hastened writing our acceptance criteria so that we
+	could do planning poker for estimating effort. 
+	If this happens next sprint planning, I.E. that we run out of time, I will try to at least specify my
+	user stories a bit more concretely and potentially other's too, and message the group over discord so that they 
+	can give their input. 
+	I hope that this can decrase confusion in what needs to be done in a story, which would otherwise
+	show up in a pull request review and take extra, unexpected time, which has been a big issue for the team as a whole.
+
+
+    * how can I help someone else, or the entire team, to learn something new?
+	
+	This week I helped team members configure their computers so that they can
+	communicate with our remote server/website without errors. (such as disabling forced https)
+	I have also helped with creating POST request endpoint definitions to our REST API controller on our server since
+	some members are still a bit unsure about how they work and what annotations to use. 
+	
+	Overall however, I spent less time helping others in discord chat this week most likely due
+	to
+		- some members being busy 
+		- we got a lot done on the workshop we managed to schedule
+		- I've been able to point to the http endpoint document, detailing communication between 
+			the java server and webbinterface, that I created.
+
+	In the future I want to continue doing more workshops with the team since they seem to be much more productive, 
+	since people are less averse to asking for help during them. The only issue is that it is practically impossible
+	to get more than half of the group together at the same time.
+
+    * what is my contribution towards the team's use of Scrum?
+
+	I contributed in sprint planning by defining acceptance criteria and creating user stories.
+	I also wrote on the team reflection.
+
+    * what is my contribution towards the team's deliveries?
+
+	I completed user stories #3.20, #3.22, and I also helped finish a user story which
+	had been due for a while (#3.9).
+
+	I also review a few pull requests and noted some uncaught bugs and issues.
+
+
+/Ekstr. 2022-05-13:19:56
+
