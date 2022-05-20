@@ -1,0 +1,40 @@
+
+    * what do I want to learn or understand better?
+
+	I did learn how Spring's POST JSON to object translation works a bit better, which allowed me to clear up misunderstandings 
+	for some people in the team who thought the server used strings and not objects. I can however not say that I learn a whole lot since 
+	most of what we did this week we've (or at least I've) done before and thus were mostly copy-paste solutions.
+
+	Next week I won't really have a goal for this specific project, since this was the last sprint, but for any potential future SCRUM projects
+	I could benefit to learn more about:
+		* Being better at creating tasks, so that I can more clearly know what needs to be done and how before I start working on the user story.
+		* Being more precise in my acceptance criteria so that other team members do not misunderstand what needs to be done for a user story to be called done.
+			Currently we've had some issues where some team members think they're done but the feature does not at all do what most of the team thought it should
+			and thus taking days for there to be any update in the PR branch after review.
+
+    * how can I help someone else, or the entire team, to learn something new?
+
+	I helped basically everyone that worked with the backend: review pull requests and helped with answering questions about 
+	our server framework Spring and how the frontend should communicate with the backend. 
+
+	I feel as though I might be spending too much time helping others, since I feel that I can have difficulties finding time for
+	doing my own user stories/issues and it sometimes interrupts my daily life. The workshop has helped with removing any immediate
+	questions anyone might have about the backend, but since a minority comes to the workshop it is not full proof. 
+
+	The HTTP endpoint list which I created a week or two ago has helped a lot for the people working mainly at the frontend since
+	they can simply look at the documentation instead of asking me. This removes work which I need to do and the delay in response
+	which they may receive. I.E. all in all the endpoint list has been a very good addition to the project.
+
+    * what is my contribution towards the team's use of Scrum?
+
+	I was at the sprint planning and retrospective. I helped defining the last bits needed for a MVP, and thus
+	defining which user stories need to be done before the end of the sprint to satisfy the minimum requirements from 
+	our stakeholder.
+
+    * what is my contribution towards the team's deliveries?
+
+	I completed user stories #3.24 and issues #95 and #101. 
+	I also reviewed several pull requests and a few hotfixes fixing, small but immediate bugs.
+
+/Ekstr. 2022-05-20:20:42
+
