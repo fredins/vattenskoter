@@ -46,7 +46,6 @@ Github actions for build and continous integration automation.
 | ------------- | ------------- |
 | fredins  | Martin Fredin  |
 | Spektria  | Hugo Ekstrand  |
-| funcorange  | Love Svalby |
 | SchWilliam  | William Schmitz  |
 | Kablero  | Kasper Ljunggren   |
 | falkenby  | Matilda Falkenby    |
